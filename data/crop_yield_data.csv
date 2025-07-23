@@ -1,0 +1,4 @@
+soil_type,rainfall,temperature,ph,crop_type,yield
+loam,300,27,6.5,wheat,3.5
+clay,250,26,5.8,rice,2.8
+sandy,180,30,6.8,maize,3.2
